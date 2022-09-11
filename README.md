@@ -32,3 +32,5 @@
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<hr>
+<a align="center" href="https://app.daily.dev/JackHD4k"><img src="https://api.daily.dev/devcards/ed4eb8ff803946a68ea800b5c25b26fa.png?r=3f6" width="400" alt="Joel Isaac Ramos Cordova's Dev Card"/></a>
